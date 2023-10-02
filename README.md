@@ -39,4 +39,6 @@ This code runs with Python version 3.9.12 and requires some libraries, to instal
 
 **Data Source:** [Seattle Houses Dataset](https://www.kaggle.com/datasets/airbnb/seattle/data)
 
-**Post:** [](https://medium.com/@miraxe/eda-seattle-houses-air-bnb-bussines-questions-6e8501df82eb)
+**Post Medium:** [Do you want to boost your Airbnb listings?](https://miraxe.medium.com/eda-seattle-houses-air-bnb-bussines-questions-6e8501df82eb)
+
+[LICENSE](https://github.com/tsleolima/seattle_houses/blob/main/LICENSE) MIT License
